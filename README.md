@@ -1,7 +1,7 @@
 # Análise da cobertura vacinal contra a covid-19 em Recife-PE
 Projeto de visualização de dados para a disciplina de Programação 1 2022.1 UFPE com a utilização da linguagem python e as seguintes bibliotecas: pandas, matplotlib e seaborn. Além do mais, para a construção do dashboard, foi utilizado a biblioteca React js.
 
-Acompanhe pelo dashboard: https://dashboardvacinadosrecife.vercel.app/
+#### Acompanhe os resultados pelo dashboard: https://dashboardvacinadosrecife.vercel.app/
 
 ## Como rodar o projeto em seu computador:
   1) Clone o repositório;
