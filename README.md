@@ -14,7 +14,7 @@ Projeto de visualização de dados para a disciplina de Programação 1 2022.1 U
   
   5) Link do repositório: https://github.com/guilopesrbc/projetoP1 ;
   
-  6) Link do repositório dashboard: https://github.com/brunom764/dashboardVacinado
+  6) Link do repositório dashboard: https://github.com/brunom764/dashboardVacinados
   
   
 ## Desenvolvedores:
